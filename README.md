@@ -3,7 +3,6 @@
 插件：DoTween，Newtonsoft.Json
 
 Contact Me
-Phone: 13976028478
 Email: 752590268@qq.com
 
 游戏成品夸克链接：https://pan.quark.cn/s/098ab14410e1
